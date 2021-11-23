@@ -1,0 +1,6 @@
+africa/semicolon/jijimarket/data/models/Listing.class
+africa/semicolon/jijimarket/data/models/Lister.class
+africa/semicolon/jijimarket/Main.class
+africa/semicolon/jijimarket/data/repositories/ListerRepository.class
+africa/semicolon/jijimarket/data/repositories/ListingRepository.class
+africa/semicolon/jijimarket/data/models/Condition.class
